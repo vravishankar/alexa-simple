@@ -1,0 +1,14 @@
+{
+    "intents": 
+    [
+        {
+            "intent": "AMAZON.StopIntent"
+        },
+        {
+            "intent": "AMAZON.CancelIntent"
+        },
+        {
+            "intent": "AMAZON.HelpIntent"
+        }
+    ]
+}

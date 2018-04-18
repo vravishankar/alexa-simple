@@ -1,0 +1,14 @@
+{
+  "name": "alexa-projects-simple",
+  "version": "1.0.0",
+  "description": "alexa skills hello world",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ravi Shankar",
+  "license": "ISC",
+  "dependencies": {
+    "alexa-sdk": "^1.0.25"
+  }
+}
